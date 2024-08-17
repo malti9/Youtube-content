@@ -1,0 +1,5 @@
+product_id,product_name,category,price,stock_quantity,supplier_id
+1,Laptop,Electronics,999.99,50,1
+2,Smartphone,Electronics,699.99,100,2
+3,"Desk Chair",Furniture,89.99,200,3
+4,Headphones,Electronics,199.99,150,1

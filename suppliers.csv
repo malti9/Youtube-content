@@ -1,0 +1,4 @@
+supplier_id,supplier_name,contact_name,phone_number,email,address,city,state,zip_code
+1,"TechSupply Co.","Michael White",222-333-4444,michael@techsupply.com,"987 Tech Ave","San Francisco",CA,94105
+2,GadgetsRUs,"Sara Black",111-222-3333,sara@gadgetsrus.com,"654 Gadget Blvd",Austin,TX,73301
+3,OfficeFurnishings,"Tom Green",888-999-0000,tom@officefurnishings.com,"321 Office St",Dallas,TX,75201

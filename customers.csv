@@ -1,0 +1,5 @@
+customer_id,first_name,last_name,email,phone_nunmber,address,city,state,zip_code,join_date
+1,John,Doe,johndoe@example.com,123-456-7890,"123 Main St","New York",NY,10001,2023-01-10
+2,Jane,Smith,janesmith@example.com,987-654-3210,"456 Elm St","Los Angeles",CA,90001,2023-02-14
+3,Alice,Johnson,alicej@example.com,555-555-5555,"789 Oak St",Chicago,IL,60601,2023-03-05
+4,Bob,Brown,bobb@example.com,444-444-4444,"321 Pine St",Houston,TX,77001,2023-04-20

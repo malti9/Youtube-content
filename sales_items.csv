@@ -1,0 +1,6 @@
+sale_item_id,sale_id,product_id,quantity,price_at_sale
+1,1,1,1,999.99
+2,1,4,1,199.99
+3,2,3,1,89.99
+4,3,2,2,699.99
+5,4,1,1,999.99
